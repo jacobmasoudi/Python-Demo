@@ -1,0 +1,117 @@
+
+.plogo{
+    width: 400px;
+}
+.list li{
+    color: white;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 15px;
+}
+.list a{
+    color: white;
+    
+}
+.main-content{
+    width: 300px;
+    margin-left: 400px;
+    color: wheat;
+    
+
+}
+
+.asidelist{
+    width: 100px;
+    vertical-align: 50px;
+    
+}
+.asidelist ul{
+
+    
+    font-size: 25px;
+    color: yellow;
+    list-style-type:armenian;
+    font-size: 20px;
+vertical-align: top;
+    
+}
+.asidelist a {
+    color: white;
+    font-size: 15px;
+}
+body{
+background-color: #245176;
+}
+
+
+
+.plogo, .searchbox{
+    display: inline-block;
+}
+.searchbox button{
+    background-color: brown;
+    
+    margin-left: 180px;
+    
+}
+
+.leftfooter, .rightfooter{
+    display: inline-block;
+    width: 400px;
+    height: 200;
+    text-align: center;
+    margin: 20px;
+    border-top: 8px solid#245176;
+    margin-top: 10px;
+  text-align: center;
+
+}
+
+.main-content{
+    width: 410px;
+    
+}
+.contentlist  {
+color: yellow;
+    font-size: 30px;
+    list-style: none;
+
+}
+.footer{
+    background-color: white;
+}
+.searchbox{
+    margin-left: 250px;
+    margin-bottom: 40px;
+    width: 50px;
+    
+}
+.list{
+    border-bottom: 3px solid black;
+    background-color: #447cac;
+    width: 800px;
+    height: 40px;
+    margin-left: 50px;
+}
+.main-content , .asidelist{
+    display: inline-block;
+}
+.bottomline li{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 10px;
+    
+    font-size: 15px;
+    
+}
+.bottomline a{
+    color: #0A0158;
+}
+.bottomline{
+    background-color:lightblue;
+    width: 800px;
+    height: 30px;
+    margin-left: 60px;
+}
